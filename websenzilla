@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=, initial-scale=1.0">
@@ -9,5 +9,12 @@
     <h1>Rusty Steele</h1>
     <p>Hi I'm a dog.Wof</p>
     <img src="Captura desde 2025-10-14 17-09-48.png">
+    <h2>Some of my favorite places</h2>
+    <ol>
+        <li>The beach</li>
+        <li>The dog park</li>
+        <li>The fire Hydrant</li>
+    </ol>
+    <p>Make sure to follow me on <a href="https://www.instagram.com/">Instagram</a></p>
 </body>
 </html>
